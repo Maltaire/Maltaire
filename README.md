@@ -2,8 +2,7 @@
 
 # Marcio Malta
 
-- 🔭 Atualmente estou trabalhando no ICMBio
-- 🧰 Atualmente estou aprendendo trabalhar em equipe.
+- Atualmente estou aprendendo a trabalhar em equipe no ICMBio
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,git,gitlab,postgres,mysql)](https://skillicons.dev)<BR>
 [![My Skills](https://skillicons.dev/icons?i=py,php,cpp,java)](https://skillicons.dev)<BR>
